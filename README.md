@@ -1,4 +1,4 @@
-# Mozaïk GitHub widgets
+# Mozaïk TFS widgets
 
 [![License][license-image]][license-url]
 [![Travis CI][travis-image]][travis-url]
